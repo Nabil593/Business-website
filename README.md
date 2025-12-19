@@ -2,7 +2,7 @@
 
 A minimal React project setup using **Vite** with **Tailwind CSS** for building fast, modern, and responsive web applications.  
 
-**Live Demo:** [https://6933b2921980848b149fca89--polite-pavlova-b75817.netlify.app/](https://6933b2921980848b149fca89--polite-pavlova-b75817.netlify.app/)
+**Live Demo:** https://business-website-lemon.vercel.app/
 
 ---
 
