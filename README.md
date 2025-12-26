@@ -9,13 +9,4 @@ this is only frontend project
 
 ## Features
 
-- **React + Vite** setup for fast development with HMR (Hot Module Replacement)
-- **Tailwind CSS** for responsive and modern UI design
-- ESLint configured for clean code and best practices
-- Minimal and scalable project structure for business applications
-- Optional plugins for enhanced React support:
-  - `@vitejs/plugin-react` – uses Babel for Fast Refresh
-  - `@vitejs/plugin-react-swc` – uses SWC for Fast Refresh
-
----
 
